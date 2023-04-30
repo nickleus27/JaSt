@@ -108,3 +108,9 @@ ENV/
 
 # MacOS files
 *.DS_Store
+
+# Node files
+node_modules/
+
+# VSCode files
+.vscode/
